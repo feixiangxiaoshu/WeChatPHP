@@ -1,0 +1,92 @@
+18:40:01 R <xml><ToUserName><![CDATA[gh_82e0f1ee3812]]></ToUserName>
+<FromUserName><![CDATA[o6TiJ007-HseQj1d4niHEf3pF7kw]]></FromUserName>
+<CreateTime>1544179201</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://140.143.242.87/index/weather]]></EventKey>
+<MenuId>427938915</MenuId>
+<<<<<<< HEAD
+</xml>
+=======
+</xml>
+>>>>>>> add resource
+18:40:01 T <xml>
+        <ToUserName><![CDATA[o6TiJ007-HseQj1d4niHEf3pF7kw]]></ToUserName>
+        <FromUserName><![CDATA[gh_82e0f1ee3812]]></FromUserName>
+        <CreateTime>1544179201</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[]]></Content>
+<<<<<<< HEAD
+        </xml>
+=======
+        </xml>
+>>>>>>> add resource
+18:40:09 R <xml><ToUserName><![CDATA[gh_82e0f1ee3812]]></ToUserName>
+<FromUserName><![CDATA[o6TiJ007-HseQj1d4niHEf3pF7kw]]></FromUserName>
+<CreateTime>1544179209</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://140.143.242.87/index/weather]]></EventKey>
+<MenuId>427938915</MenuId>
+<<<<<<< HEAD
+</xml>
+=======
+</xml>
+>>>>>>> add resource
+18:40:09 T <xml>
+        <ToUserName><![CDATA[o6TiJ007-HseQj1d4niHEf3pF7kw]]></ToUserName>
+        <FromUserName><![CDATA[gh_82e0f1ee3812]]></FromUserName>
+        <CreateTime>1544179209</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[]]></Content>
+<<<<<<< HEAD
+        </xml>
+=======
+        </xml>
+>>>>>>> add resource
+18:40:17 R <xml><ToUserName><![CDATA[gh_82e0f1ee3812]]></ToUserName>
+<FromUserName><![CDATA[o6TiJ007-HseQj1d4niHEf3pF7kw]]></FromUserName>
+<CreateTime>1544179217</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://140.143.242.87/index/weather]]></EventKey>
+<MenuId>427938915</MenuId>
+<<<<<<< HEAD
+</xml>
+=======
+</xml>
+>>>>>>> add resource
+18:40:17 T <xml>
+        <ToUserName><![CDATA[o6TiJ007-HseQj1d4niHEf3pF7kw]]></ToUserName>
+        <FromUserName><![CDATA[gh_82e0f1ee3812]]></FromUserName>
+        <CreateTime>1544179217</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[]]></Content>
+<<<<<<< HEAD
+        </xml>
+=======
+        </xml>
+>>>>>>> add resource
+11:39:32 R <xml><ToUserName><![CDATA[gh_82e0f1ee3812]]></ToUserName>
+<FromUserName><![CDATA[o6TiJ007-HseQj1d4niHEf3pF7kw]]></FromUserName>
+<CreateTime>1545536372</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://140.143.242.87/index/weather]]></EventKey>
+<MenuId>427938915</MenuId>
+<<<<<<< HEAD
+</xml>
+=======
+</xml>
+>>>>>>> add resource
+11:39:32 T <xml>
+        <ToUserName><![CDATA[o6TiJ007-HseQj1d4niHEf3pF7kw]]></ToUserName>
+        <FromUserName><![CDATA[gh_82e0f1ee3812]]></FromUserName>
+        <CreateTime>1545536372</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[]]></Content>
+<<<<<<< HEAD
+        </xml>
+=======
+        </xml>
+>>>>>>> add resource

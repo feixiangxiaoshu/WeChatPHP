@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+.idea
+composer.lock
+*.log
+thinkphp
+=======
+.idea
+composer.lock
+*.log
+thinkphp
+>>>>>>> add resource
